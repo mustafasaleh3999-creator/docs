@@ -13,7 +13,8 @@ tags:
 Since version 2.18, a system of contextual features has been introduced for some morphosyntactic features that are not marked on a word but can be deduced from the context.  
 
 > [!note] Related publication:
-> [Status of morphosyntactic features Illustration with written and spoken French UD treebanks](https://aclanthology.org/2025.tlt-1.18/) (Kahane et al., TLT-SyntaxFest 2025)
+> [Status of morphosyntactic features Illustration with written and spoken French UD treebanks](https:/
+> /aclanthology.org/2025.tlt-1.18/) (Kahane et al., TLT-SyntaxFest 2025)
 
 The following lexical features are used (in French treebanks only for now):
 
